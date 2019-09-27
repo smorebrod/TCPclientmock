@@ -1,0 +1,7 @@
+C:\source\teknik\mockeksamen\TcpMockClient\TcpMockClient\bin\Debug\TcpMockClient.exe.config
+C:\source\teknik\mockeksamen\TcpMockClient\TcpMockClient\bin\Debug\TcpMockClient.exe
+C:\source\teknik\mockeksamen\TcpMockClient\TcpMockClient\bin\Debug\TcpMockClient.pdb
+C:\source\teknik\mockeksamen\TcpMockClient\TcpMockClient\obj\Debug\TcpMockClient.csprojAssemblyReference.cache
+C:\source\teknik\mockeksamen\TcpMockClient\TcpMockClient\obj\Debug\TcpMockClient.csproj.CoreCompileInputs.cache
+C:\source\teknik\mockeksamen\TcpMockClient\TcpMockClient\obj\Debug\TcpMockClient.exe
+C:\source\teknik\mockeksamen\TcpMockClient\TcpMockClient\obj\Debug\TcpMockClient.pdb
